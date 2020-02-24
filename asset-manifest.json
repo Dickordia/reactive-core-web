@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactive-core-web/static/css/main.fb94a98c.chunk.css",
+    "main.css": "/reactive-core-web/static/css/main.a55ebd1d.chunk.css",
     "main.js": "/reactive-core-web/static/js/main.7e6436db.chunk.js",
     "main.js.map": "/reactive-core-web/static/js/main.7e6436db.chunk.js.map",
     "runtime-main.js": "/reactive-core-web/static/js/runtime-main.891aac86.js",
@@ -8,16 +8,16 @@
     "static/js/2.57ebd8e8.chunk.js": "/reactive-core-web/static/js/2.57ebd8e8.chunk.js",
     "static/js/2.57ebd8e8.chunk.js.map": "/reactive-core-web/static/js/2.57ebd8e8.chunk.js.map",
     "index.html": "/reactive-core-web/index.html",
-    "precache-manifest.fe93ec8b6c2a62cb7461e7cb017771b3.js": "/reactive-core-web/precache-manifest.fe93ec8b6c2a62cb7461e7cb017771b3.js",
+    "precache-manifest.c5c601373d681404cf3f4a18f96c919d.js": "/reactive-core-web/precache-manifest.c5c601373d681404cf3f4a18f96c919d.js",
     "service-worker.js": "/reactive-core-web/service-worker.js",
-    "static/css/main.fb94a98c.chunk.css.map": "/reactive-core-web/static/css/main.fb94a98c.chunk.css.map",
+    "static/css/main.a55ebd1d.chunk.css.map": "/reactive-core-web/static/css/main.a55ebd1d.chunk.css.map",
     "static/js/2.57ebd8e8.chunk.js.LICENSE.txt": "/reactive-core-web/static/js/2.57ebd8e8.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/reactive-core-web/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.891aac86.js",
     "static/js/2.57ebd8e8.chunk.js",
-    "static/css/main.fb94a98c.chunk.css",
+    "static/css/main.a55ebd1d.chunk.css",
     "static/js/main.7e6436db.chunk.js"
   ]
 }
